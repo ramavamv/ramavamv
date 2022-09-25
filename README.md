@@ -6,12 +6,12 @@
 <p>Here are some ideas to get you started:</p>
 
 <nav >
-  <li>- 🔭 Trabalho como Analista de Suporte Pleno Linx/Stone S.A.</li>
-  <li>- 🌱 Estou aprendendo Node JS</li>
-  <li>- 🎓 Formado em Análise e Desenvolvimento de Sistemas</li>
-  <li>- 👨‍🏫 Cursando Sistemas para Internet</li>
-  <li>- 📚 Cursei pela empresa Linx o programa #BoraSerTech - Node JS pela Let's Code</li>
-  <li>- 😄 Pronouns: Him/His</li>
+  <li>🔭 Trabalho como Analista de Suporte Pleno Linx/Stone S.A.</li>
+  <li>🌱 Estou aprendendo Node JS</li>
+  <li>🎓 Formado em Análise e Desenvolvimento de Sistemas</li>
+  <li>👨‍🏫 Cursando Sistemas para Internet</li>
+  <li>📚 Cursei pela empresa Linx o programa #BoraSerTech - Node JS pela Let's Code</li>
+  <li>😄 Pronouns: Him/His</li>
 </nav>
 
 <!--  
