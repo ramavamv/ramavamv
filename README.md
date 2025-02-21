@@ -5,10 +5,12 @@
 <p>Here are some ideas to get you started:</p>
 
 <nav >
-  <li>🔭 Trabalho como Analista de Suporte Pleno Linx/Stone S.A.</li>
-  <li>🌱 Estou aprendendo Node JS</li>
-  <li>🎓 Formado em Análise e Desenvolvimento de Sistemas</li>
-  <li>👨‍🏫 Cursando Sistemas para Internet</li>
+  <li>🔭 Trabalho como Técnico de Desenvolvimento de Sistemas pela Instituição CANOASTEC</li>
+  <li>🌱 Estou aprendendo Node JS, Laravel</li>
+  <li>🎓 Técnico em Informática</li>
+  <li>🎓 Análise e Desenvolvimento de Sistemas</li>
+  <li>🎓 Sistemas para Internet</li>
+  <li>🎓 Pós Graduação em Análise e Desenvolvimento de Sistemas</li>
   <li>📚 Cursei pela empresa Linx o programa #BoraSerTech - Node JS pela Let's Code</li>
   <li>😄 Pronouns: Him/His</li>
 </nav>
